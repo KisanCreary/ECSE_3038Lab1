@@ -11,7 +11,6 @@ def parallel(resistances):
 
 parallel([330, 1000, 2200])
 
-
 def potential_divider(voltage, resistances):
 
     total_resistance = sum(resistances) 
@@ -23,5 +22,6 @@ def potential_divider(voltage, resistances):
         print(f"{voltage_drop:.2f}v")
 
 potential_divider(9, [3000, 1000])
+
 
 

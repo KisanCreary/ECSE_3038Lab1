@@ -9,3 +9,9 @@ Purpose: Calculates the voltage drop across each resistor in a series circuit.(i
 
 Input: Total voltage (in volts) and a list of resistances (in ohms).
 Output: Prints the voltage drop across each resistor (formatted to two decimal places).
+
+
+3.temperature_check()
+Purpose: Checks if a patient's body temperature is hypothermic, normal, or hyperthermic based on the temperature and unit (Celsius or Fahrenheit).(it is for a lab)
+Input: Temperature value and unit ("C" for Celsius, "F" for Fahrenheit).
+Output: Prints a message indicating the patient's temperature condition.
