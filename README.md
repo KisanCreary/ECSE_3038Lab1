@@ -15,3 +15,7 @@ Output: Prints the voltage drop across each resistor (formatted to two decimal p
 Purpose: Checks if a patient's body temperature is hypothermic, normal, or hyperthermic based on the temperature and unit (Celsius or Fahrenheit).(it is for a lab)
 Input: Temperature value and unit ("C" for Celsius, "F" for Fahrenheit).
 Output: Prints a message indicating the patient's temperature condition.
+
+
+JOKE
+How do you know that elephants like swimming? They always have their trunks on.
